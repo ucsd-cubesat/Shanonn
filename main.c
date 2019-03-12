@@ -60,7 +60,7 @@ void buildPayload( ) {
   char tempData[50];
 
   //from the gieger meter
-  //char geigerData[50];
+  char geigerData[50];
 
   //from the ADC
   char ozoneData[50];
